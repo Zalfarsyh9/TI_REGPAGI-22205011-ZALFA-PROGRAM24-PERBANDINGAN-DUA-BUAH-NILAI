@@ -6,7 +6,10 @@ package com.mycompany.ti_regpagi22205011.latihan24.zalfa.java;
 import java.util.Scanner;
 /**
  *
- * @author User
+ * @author User 
+ Nama : Zalfa Rosiyah Riski 
+ Nim : 22205011
+ Prodi : Teknik Informatika
  */
 public class TI_REGPAGI22205011Latihan24ZalfaJava {
 
